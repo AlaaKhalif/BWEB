@@ -1,0 +1,1922 @@
+[
+	{
+		'Name':'001_0011',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'002_0011'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'003_0011'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'004_0011'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'005_0011'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'006_0011'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'007_0011'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'008_0011'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'009_0011'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'010_0011'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'011_0011'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'012_0011'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'013_0011'
+		'Author':'FulLengthBinaurals',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'014_0011'
+		'Author':'FulLengthBinaurals',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'015_0011'
+		'Author':'FulLengthBinaurals',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'016_0011'
+		'Author':'FulLengthBinaurals',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'017_0011'
+		'Author':'FulLengthBinaurals',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'018_0011'
+		'Author':'FulLengthBinaurals',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'019_0012'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'020_0012'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'021_0012'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'022_0012'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'023_0012'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'024_0012'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'025_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'026_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'027_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'028_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'029_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'030_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'031_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'032_0013'
+		'Author':'IsoBinauralTones',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'033_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'034_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'035_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'036_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'037_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'038_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'039_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'040_0013'
+		'Author':'Meditation Music & Complete Brainwave Therapy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'alpha',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'041_0021'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'042_0021'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'043_0021'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'044_0021'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'045_0021'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'046_0021'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'047_0021'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'048_0021'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'049_0021'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'050_0021'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'051_0021'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'052_0021'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'053_0021'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'054_0021'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'055_0021'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'056_0021'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'057_0021'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'058_0023'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'059_0023'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'060_0023'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'061_0023'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'062_0023'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'063_0023'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'064_0023'
+		'Author':'Brainwave Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'065_0023'
+		'Author':'Brainwave Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'066_0023'
+		'Author':'Brainwave Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'067_0023'
+		'Author':'Brainwave Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'068_0023'
+		'Author':'Brainwave Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'069_0023'
+		'Author':'Brainwave Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'070_0021'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'071_0021'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'072_0021'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'073_0021'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'074_0021'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'075_0021'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'076_0021'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'077_0021'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'078_0021'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'079_0021'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'080_0021'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'beta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'081_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'082_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'083_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'084_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'085_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'086_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'087_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'088_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'089_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'090_0031'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'091_0032'
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'092_0032'
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'093_0033'
+		'Author':'Yoga Music for Kids Masters',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'094_0033'
+		'Author':'Yoga Music for Kids Masters',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'095_0033'
+		'Author':'Yoga Music for Kids Masters',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'096_0033'
+		'Author':'Yoga Music for Kids Masters',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'097_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'098_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'099_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'100_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'101_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'102_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'103_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'104_0033'
+		'Author':'Space Music Orchestra',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'105_0033'
+		'Author':'Sleep Music Lullabies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'106_0033'
+		'Author':'Sleep Music Lullabies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'107_0033'
+		'Author':'Sleep Music Lullabies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'108_0033'
+		'Author':'Sleep Music Lullabies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'109_0033'
+		'Author':'Charmond Kingren',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'110_0033'
+		'Author':'Charmond Kingren',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'111_0033'
+		'Author':'Charmond Kingren',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'112_0033'
+		'Author':'Charmond Kingren',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'113_0033'
+		'Author':'Charmond Kingren',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'114_0033'
+		'Author':'Charmond Kingren',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'115_0031'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'116_0031'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'117_0031'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'118_0031'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'119_0031'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'120_0031'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'delta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'121_0051'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'122_0051'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'123_0051'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'124_0051'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'125_0051'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'126_0051'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'127_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'128_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'129_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'130_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'131_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'132_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'133_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'134_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'135_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'136_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'137_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'138_0051'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'139_0053'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'140_0053'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'141_0053'
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'142_0051'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'143_0051'
+		'Author':'Binaural Beats',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'144_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'145_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'146_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'147_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'148_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'149_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'150_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'151_0052'
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'152_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'153_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'154_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'155_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'156_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'157_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'158_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'159_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'160_0051'
+		'Author':'MusicMindMagic',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'gamma',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'161_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'162_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'163_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'164_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'165_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'166_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'167_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'168_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'169_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'170_0041'
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'171_0041'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'172_0041'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'173_0041'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'174_0041'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'175_0041'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'176_0041'
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'177_0042'
+		'Author':'Bob Decker',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'178_0042'
+		'Author':'Bob Decker',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'179_0042'
+		'Author':'Bob Decker',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'180_0042'
+		'Author':'Bob Decker',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'181_0042'
+		'Author':'Bob Decker',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'182_0042'
+		'Author':'Bob Decker',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'183_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'184_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'185_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'186_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'187_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'188_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'189_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'190_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'191_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'192_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'193_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'194_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'195_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'196_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'197_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'198_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'199_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'200_0043'
+		'Author':'Jason Lewis - Mind Amend',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'theta',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'201_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'202_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'203_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'204_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'205_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'206_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'207_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'208_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'209_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'210_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'211_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'212_0060'
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'213_0060'
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'214_0060'
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'215_0060'
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'216_0060'
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'217_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'218_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'219_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'220_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'221_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'222_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'223_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'224_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'225_0060'
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'226_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'227_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'228_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'229_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'230_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'231_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'232_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'233_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'234_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'235_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'236_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'237_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'238_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'239_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'240_0060'
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no effect',
+		'Beats-Type':'none'
+	}
+]

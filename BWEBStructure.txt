@@ -1,0 +1,2401 @@
+[
+	{
+		'Name':'001_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'002_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'003_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'004_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'005_0012',
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'006_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'007_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'008_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'009_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'010_0012',
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'011_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'012_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'013_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'014_0012',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'015_0012',
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'016_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'017_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'018_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'019_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'020_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'021_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'022_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'023_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'024_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'025_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'026_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'027_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'028_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'029_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'030_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'031_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'032_0012',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'033_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'034_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'035_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'036_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'037_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'038_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'039_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'040_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'041_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'042_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'043_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'044_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'045_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'046_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'047_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'048_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'049_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'050_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'051_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'052_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'053_0013',
+		'Author':'Mindsoul Media',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'054_0012',
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'055_0012',
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'056_0012',
+		'Author':'Brain Waves Music Academy',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'057_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'058_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'059_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'060_0013',
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'061_0013',
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'062_0013',
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'063_0013',
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'064_0013',
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'065_0013',
+		'Author':'Gaia Meditation',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'066_0012',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'067_0012',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'068_0012',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'069_0012',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'070_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'071_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'072_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'073_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'074_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'075_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'076_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'077_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'078_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'079_0012',
+		'Author':'Life's Trip',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'080_0011',
+		'Author':'185668232',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'081_0011',
+		'Author':'185668232',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'082_0011',
+		'Author':'185668232',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'083_0011',
+		'Author':'185668232',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'084_0011',
+		'Author':'185668232',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'085_0011',
+		'Author':'185668232',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'086_0011',
+		'Author':'185668232',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'087_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'088_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'089_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'090_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'091_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'092_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'093_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'094_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'095_0011',
+		'Author':'sixeightw0lf',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'096_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'097_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'098_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'099_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'100_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'101_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'102_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'103_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'104_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'105_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'106_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'107_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'108_0013',
+		'Author':'Zen Melodies',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'isochronic'
+	},
+	{
+		'Name':'109_0011',
+		'Author':'WAVES Brainwave Entrainment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'110_0011',
+		'Author':'WAVES Brainwave Entrainment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'111_0011',
+		'Author':'WAVES Brainwave Entrainment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'112_0011',
+		'Author':'WAVES Brainwave Entrainment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'113_0011',
+		'Author':'WAVES Brainwave Entrainment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'114_0011',
+		'Author':'WAVES Brainwave Entrainment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'115_0012',
+		'Author':'HQ BinauralBeat',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'116_0012',
+		'Author':'HQ BinauralBeat',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'117_0012',
+		'Author':'HQ BinauralBeat',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'118_0012',
+		'Author':'HQ BinauralBeat',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'119_0012',
+		'Author':'HQ BinauralBeat',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'120_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'121_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'122_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'123_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'124_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'125_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'126_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'127_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'128_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'129_0012',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'130_0012',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'131_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'132_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'133_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'134_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'135_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'136_0011',
+		'Author':'Magnetic Minds',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'137_0011',
+		'Author':'KNOWLEXGE HUB',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'138_0011',
+		'Author':'KNOWLEXGE HUB',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'139_0011',
+		'Author':'KNOWLEXGE HUB',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'140_0011',
+		'Author':'KNOWLEXGE HUB',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'141_0011',
+		'Author':'KNOWLEXGE HUB',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'142_0011',
+		'Author':'KNOWLEXGE HUB',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'monaural'
+	},
+	{
+		'Name':'143_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'144_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'145_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'146_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'147_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'148_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'149_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'150_0012',
+		'Author':'Jody Hatton's Videos',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'brainwave entrainment',
+		'Beats-Type':'binaural'
+	},
+	{
+		'Name':'151_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'152_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'153_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'154_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'155_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'156_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'157_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'158_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'159_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'160_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'161_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'162_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'163_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'164_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'165_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'166_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'167_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'168_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'169_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'170_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'171_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'172_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'173_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'174_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'175_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'176_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'177_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'178_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'179_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'180_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'181_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'182_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'183_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'184_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'185_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'186_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'187_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'188_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'189_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'190_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'191_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'192_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'193_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'194_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'195_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'196_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'197_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'198_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'199_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'200_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'201_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'202_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'203_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'204_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'205_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'206_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'207_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'208_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'209_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'210_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'211_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'212_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'213_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'214_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'215_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'216_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'217_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'218_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'219_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'220_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'221_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'222_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'223_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'224_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'225_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'226_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'227_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'228_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'229_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'230_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'231_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'232_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'233_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'234_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'235_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'236_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'237_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'238_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'239_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'240_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'241_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'242_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'243_0020',
+		'Author':'Rebecca Reads Recordings',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'244_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'245_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'246_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'247_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'248_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'249_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'250_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'251_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'252_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'253_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'254_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'255_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'256_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'257_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'258_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'259_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'260_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'261_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},{
+		'Name':'262_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'263_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'264_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'265_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'266_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'267_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'268_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'269_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'270_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'271_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'272_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'273_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'274_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'275_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'276_0020',
+		'Author':'Ahmed Amged',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'277_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'278_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'279_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'280_0020',
+		'Author':'GTZAN',
+		'Ext':'mp3',
+		'Type':'mono',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'281_0020',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'282_0020',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'283_0020',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'284_0020',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'285_0020',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'286_0020',
+		'Author':'A1 Code',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'287_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'288_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'289_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'290_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'291_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'292_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'293_0020',
+		'Author':'Spiritual Moment',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'294_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'295_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'296_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'297_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'298_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'299_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+	{
+		'Name':'300_0020',
+		'Author':'Meditation Music',
+		'Ext':'mp3',
+		'Type':'stereo',
+		'Category':'no entrainment',
+		'Beats-Type':'none'
+	},
+]
